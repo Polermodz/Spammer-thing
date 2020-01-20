@@ -1,3 +1,5 @@
+import webbrowser
+
 print("What is name comrade?")
 user_name = input()
 
@@ -70,3 +72,4 @@ else:
             print(f.read())
             f = open("F4.txt", "r")
             print(f.read())
+            webbrowser.open_new('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
