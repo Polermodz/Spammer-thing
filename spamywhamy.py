@@ -1,9 +1,9 @@
 import webbrowser
 
-print("What is name comrade?")
+print("who's there?")
 user_name = input()
 
-if user_name == "Vadim blyat":
+if user_name == "ur mum":
     print("ok")
 else:
     while 3 > 2:
